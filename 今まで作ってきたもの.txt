@@ -1,0 +1,38 @@
+やぁ、ぼくルピタ。
+今日から改めてしっかりとプログラミングを始めていこうと思うからいままで作ってきたものをあげていくよ
+
+Season0(2007~2020)
+Minecraft Server - Server.ProやAternosなど
+superlupita公式ホームページ - WiX
+HaCGチーター集団 - Discord
+（あとは忘れた）
+
+
+Season1(2021~2021末)
+
+:TekitoCheat: - CheatEngine
+:TekitoGhost: - C#
+:RPG-Paper-Maker: - RPG-Paper-Maker
+:ちゃんと文字言えるかテスト: - python
+:選択作りたい: - pyhton
+:Pong: - Godot
+:test001: - UnrealEngine
+:パーセント計算機: - Python
+:パソコン部の人用のゲーム: - Unity
+:3D ブロック崩し: - Unity
+:自分用タイピング: - Unity
+:じゃんけんゲーム: - C#
+:電卓: - C#
+:TekitoLupita: - C#
+:計算サイト: - JavaScript
+
+
+Season1.5(2022~2022.4月)
+
+Lupita.cf - HTML, CSS, PHP
+偽勉強サイト - HTML
+その他ごみは紹介しない
+
+
+Season2(2022.4月~)
+～これから～
